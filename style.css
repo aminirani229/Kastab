@@ -75,6 +75,7 @@ header {
     clip-path: url("blob1.svg");
     flex:1;
 }
+
 .left-hero{
     flex:1;
 }
